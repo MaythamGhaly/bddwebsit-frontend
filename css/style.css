@@ -227,6 +227,47 @@ img {
     width: 80%;
     font-size: 15px;
 }
+.tren-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* academy section */
+.academy-section{
+    background-image: url("images/bddacademy.jpg");
+    background-size: cover;
+    margin-bottom: 0;
+}
+.academy-program{
+    display: flex;
+    margin: 20px 20px;
+}
+.acd-logo{
+    margin-left: 20vh;
+    margin-top: 15vh;
+    max-width: 35%;
+}
+.acd-logo-img{
+    width: 40%;
+}
+.acad-logo-des{
+    font-size: 14;
+    font-weight: bold;
+    color: white;
+}
+.icons{
+    margin: 15vh 10vh 0;
+}
+.icon{
+   height: 100px;
+   width: 120px;
+}
+.acd-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
 /* Utlities */
 
 .container{
